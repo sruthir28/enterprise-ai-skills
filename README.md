@@ -13,7 +13,8 @@ Structured problem-solving using Situation-Complication-Problem-Recommendation f
 - Developing clear problem statements
 - Writing memos or recommendations
 
-**Download:** [scpr-framework.skill](scpr-framework.skill)
+**Download:** [scpr-framework.skill](scpr-framework.skill)  
+**View Source:** [SKILL.md](scpr-framework/SKILL.md)
 
 **Example Output:**
 ```
