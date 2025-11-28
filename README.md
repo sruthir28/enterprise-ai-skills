@@ -27,6 +27,30 @@ Recommendations:
 3. Introduce usage-based AI tier by Q2 2025
 ```
 
+### 🌳 Issue Tree Builder
+Break down complex problems into MECE components using hypothesis-driven approach.
+
+**Use when:**
+- Decomposing strategic questions
+- Structuring analysis before diving into data
+- Creating work plans with prioritization
+- Preparing for case interviews
+
+**Download:** [issue-tree-builder.skill](issue-tree-builder.skill)  
+**View Source:** [SKILL.md](issue-tree-builder/SKILL.md)
+
+**Example Output:**
+```
+How to increase revenue 50%?
+├─ Average Order Value (Price)
+│  ├─ Pricing 15% below market - test if can increase
+│  └─ Cart 1.8 items vs 2.5 industry - cross-sell opportunity
+├─ Traffic Volume (Quantity)
+│  └─ Paid CAC $45 vs LTV $120 - can 2x spend profitably
+└─ Conversion Rate
+   └─ Checkout abandonment 68% vs 58% - friction exists
+```
+
 ## How to Use
 
 1. Download the `.skill` file
@@ -36,10 +60,9 @@ Recommendations:
 
 ## Coming Soon
 
-- Issue Tree Builder
-- MECE Analyzer
 - Executive Summary Generator
 - Slide Structure Helper
+- Excel Structure Helper
 
 ## About
 
