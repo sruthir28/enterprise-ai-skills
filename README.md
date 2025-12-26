@@ -1,10 +1,27 @@
-# Enterprice AI Skills
+# Enterprise AI Skills
 
-Open-source AI skills and frameworks for enterprise professionals. Works across Claude, ChatGPT, and Gemini. McKinsey frameworks, PM workflows, and practical tools. 
+Open-source AI skills and frameworks for enterprise professionals. McKinsey consulting frameworks, PM workflows, and practical tools. Currently for Claude, expanding to other LLMs.
 
-## Available Skills
+---
+
+## 🎯 What's Inside
+
+**Consulting Frameworks** — Strategic problem-solving tools from McKinsey
+- SCPR Framework: Structure arguments and recommendations
+- Issue Tree Builder: Break down complex problems (MECE)
+- Storyline Builder: Create presentation narratives
+
+**Product Management** — Decision-making frameworks for PMs
+- Prioritization Framework: RICE, Impact/Effort, Value/Complexity, Weighted Scoring
+
+**Coming Soon:** Roadmap planning, stakeholder templates, Excel helpers, slide structure tools
+
+---
+
+## 📚 Available Skills
 
 ### 🎯 SCPR Framework
+
 Structured problem-solving using Situation-Complication-Problem-Recommendation format.
 
 **Use when:**
@@ -13,14 +30,14 @@ Structured problem-solving using Situation-Complication-Problem-Recommendation f
 - Developing clear problem statements
 - Writing memos or recommendations
 
-**Download:** [scpr-framework.skill](scpr-framework.skill)  
-**View Source:** [SKILL.md](scpr-framework/SKILL.md)
+**[Download Skill](scpr-framework.skill)** | **[View Documentation](scpr-framework/SKILL.md)**
 
 **Example Output:**
 ```
 Situation: Series B SaaS startup, $15M ARR, serving creative agencies
 Complication: AI tools reducing usage 15%, $500K pipeline paused
 Problem: How to return to 25%+ growth within 12 months?
+
 Recommendations:
 1. Launch AI-native workflow engine by Q2 2025
 2. Shift positioning to "AI-augmented agency ops" by Q1 2025
@@ -28,7 +45,8 @@ Recommendations:
 ```
 
 ### 🌳 Issue Tree Builder
-Break down complex problems into MECE components using hypothesis-driven approach.
+
+Break down complex problems into MECE (Mutually Exclusive, Collectively Exhaustive) components.
 
 **Use when:**
 - Decomposing strategic questions
@@ -36,8 +54,7 @@ Break down complex problems into MECE components using hypothesis-driven approac
 - Creating work plans with prioritization
 - Preparing for case interviews
 
-**Download:** [issue-tree-builder.skill](issue-tree-builder.skill)  
-**View Source:** [SKILL.md](issue-tree-builder/SKILL.md)
+**[Download Skill](issue-tree-builder.skill)** | **[View Documentation](issue-tree-builder/SKILL.md)**
 
 **Example Output:**
 ```
@@ -52,6 +69,7 @@ How to increase revenue 50%?
 ```
 
 ### 📊 Storyline Builder
+
 Build presentation storylines where each line becomes a slide title, creating logical narrative flow.
 
 **Use when:**
@@ -60,8 +78,7 @@ Build presentation storylines where each line becomes a slide title, creating lo
 - Creating executive communications
 - Organizing complex narratives
 
-**Download:** [storyline-builder.skill](storyline-builder.skill)  
-**View Source:** [SKILL.md](storyline-builder/SKILL.md)
+**[Download Skill](storyline-builder.skill)** | **[View Documentation](storyline-builder/SKILL.md)**
 
 **Example Output:**
 ```
@@ -72,27 +89,87 @@ Market Strategy Storyline:
 4. Our revenue of $15M positions us as emerging player with 25% growth
 5. Product addresses workflow automation for creative agencies
 6. Pricing structured as subscription model with $75K average contract value
-...
 ```
 
-## How to Use
+### 🎯 Prioritization Framework
 
-1. Download the `.skill` file
-2. In Claude.ai, go to Settings → Skills
-3. Click "Add Skill" and upload the file
-4. Start using the framework in your conversations
+Evaluate features and initiatives using proven PM frameworks.
 
-## Coming Soon
+**Methods included:**
+- RICE Scoring (quantitative)
+- Impact/Effort Matrix (visual)
+- Value vs. Complexity (technical)
+- Weighted Scoring (custom criteria)
 
-- Slide Structure Helper
-- Excel Structure Helper
+**Use when:**
+- Making roadmap decisions
+- Comparing feature requests
+- Communicating priorities to stakeholders
+- Breaking analysis paralysis
 
-## About
-
-Created with Claude to share consulting best practices. Built publicly to help consultants transition to product and AI roles.
-
-**Connect:** [LinkedIn](https://www.linkedin.com/in/sruthichintakunta/)
+**[Download Skill](./prioritization/)** | **[View Documentation](./prioritization/SKILL.md)**
 
 ---
 
-*Built with Claude | MIT License*
+## 🚀 How to Use
+
+### For Claude.ai:
+1. Download the `.skill` file
+2. Go to Settings → Skills
+3. Click "Add Skill" and upload
+4. Start using in your conversations
+
+### For Other LLMs:
+1. Open the `SKILL.md` documentation
+2. Copy the framework instructions
+3. Paste into your conversation as context
+4. Apply the framework to your problem
+
+---
+
+## 💡 Why These Skills?
+
+Enterprise professionals spend hours on frameworks that should take minutes. These skills:
+
+✅ Apply proven frameworks consistently  
+✅ Work with whatever data you have  
+✅ Output clean, shareable results  
+✅ Explain when to use which approach  
+✅ Save you from analysis paralysis  
+
+---
+
+## 🛠️ Coming Soon
+
+- Roadmap Planning Helper
+- Stakeholder Communication Templates  
+- Excel Structure Builder
+- Slide Structure Assistant
+- Product Strategy Framework
+- OKR Setting & Tracking
+
+---
+
+## 🤝 Contributing
+
+Have ideas for new skills or improvements?
+- Open an issue
+- Submit a PR
+- Share what you built with these
+
+---
+
+## 📝 License
+
+MIT — Use freely, modify, share, build your own.
+
+---
+
+## 🔗 Connect
+
+**LinkedIn:** [Sruthi Chintakunta](https://www.linkedin.com/in/sruthichintakunta/)  
+**More builds:** Weekend AI projects shared on LinkedIn
+
+---
+
+**Built with Claude | Shared openly | Improved continuously**
