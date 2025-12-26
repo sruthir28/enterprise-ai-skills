@@ -1,6 +1,6 @@
-# McKinsey Claude Skills
+# Enterprice AI Skills
 
-Professional consulting frameworks packaged as Claude Skills. Built by ex-McKinsey consultant for consultants, PMs, and strategists.
+Open-source AI skills and frameworks for enterprise professionals. Works across Claude, ChatGPT, and Gemini. McKinsey frameworks, PM workflows, and practical tools. 
 
 ## Available Skills
 
