@@ -109,6 +109,24 @@ Evaluate features and initiatives using proven PM frameworks.
 
 **[Download Skill](./prioritization/)** | **[View Documentation](./prioritization/SKILL.md)**
 
+## 📊 Data Insights
+Analyze any data and get 5 key questions answered in plain English.
+
+Questions answered:
+* Hit targets?
+* Trending up or down?
+* Any unusual changes?
+* Best/worst segments?
+* Key numbers (avg, total)
+
+Use when:
+* You have a spreadsheet and don't know where to start
+* Need quick insights without being a data scientist
+* Want actionable analysis in 30 seconds
+* Need presentation-ready Excel output
+
+**[Download Skill](./data-insights-simple.skill)** | **[View Documentation](./data-insights-simple/)**
+
 ---
 
 ## 🚀 How to Use
